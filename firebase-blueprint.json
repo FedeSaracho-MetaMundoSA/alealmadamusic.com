@@ -1,0 +1,18 @@
+{
+  "entities": {
+    "store": {
+      "title": "Site Data Store",
+      "description": "Central storage document for site content and admin settings",
+      "fields": {
+        "hero": { "type": "map", "description": "Hero section content" },
+        "bio": { "type": "map", "description": "Bio section content" },
+        "sets": { "type": "array", "description": "Music sets list" },
+        "events": { "type": "array", "description": "Upcoming and past events" },
+        "sponsors": { "type": "array", "description": "Sponsors and brands" },
+        "videos": { "type": "array", "description": "Videos list" },
+        "photos": { "type": "array", "description": "Photos gallery" },
+        "radioConfig": { "type": "map", "description": "Sónica Radio live stream configuration" }
+      }
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "sponsors": [
+    {
+      "id": "sp-1",
+      "category": "Radio Partner & Media",
+      "logoUrl": "/logosonicaradio.png",
+      "order": 1,
+      "name": "SÓNICA RADIO DIGITAL",
+      "websiteUrl": "https://sonicaradio.com.ar"
+    }
+  ],
+  "videos": [
+    {
+      "title": "SÓNICA SESSIONS #01 / LIVE RECORDING",
+      "isPrincipal": true,
+      "src": "https://www.youtube.com/embed/videoseries?list=PL388b-2F4D9x2_yQJ0e90kKzZ5B6082_H",
+      "subtitle": "SET DE AUDIO EN VIVO EN STUDIO Y TRANSMISIÓN DIRECTA",
+      "poster": "/fotos/djing.jpg",
+      "id": "vid-1",
+      "duration": "1:24:10",
+      "order": 1
+    },
+    {
+      "poster": "/fotos/trewa4.jpg",
+      "title": "TREWA BAR / LIVE PERFORMANCE",
+      "id": "vid-2",
+      "subtitle": "SESSION DE PROGRESSIVE HOUSE & DEEP VIBES",
+      "duration": "58:40",
+      "order": 2,
+      "isPrincipal": false,
+      "src": "/videos/trewabar3.mp4"
+    }
+  ],
+  "hero": {
+    "videoUrl": "/videos/videoiniciohero.mp4",
+    "title": "BIENVENIDOS"
+  },
+  "radioConfig": {
+    "contactEmail": "contacto@radiosonica.com.ar",
+    "youtubeUrl": "https://youtube.com/@radiosonica",
+    "chatEnabled": true,
+    "streamingUrl": "https://stream.radiosonica.com.ar/live",
+    "soundcloudUrl": "https://soundcloud.com/alealmada-music",
+    "instagramUrl": "https://instagram.com/radiosonica.ar"
+  },
+  "bio": {
+    "mainBio": "Ale Almada es un DJ argentino influenciado por los sonidos de los años 80, el House de los 90 y la escena electrónica actual. Sus sets cubren principalmente Progressive House, incorporando matices de Organic House y Deep House, combinando melodía, profundidad y una cuidada selección musical.",
+    "residence": "SALTA, ARGENTINA",
+    "title": "BIOGRAFÍA",
+    "genres": "PROGRESSIVE - ORGANIC - DEEP HOUSE",
+    "subtitle": "ALE ALMADA / DJ | Productor en formación | Director de Sónica Radio",
+    "imageUrl": "",
+    "radioProject": "SÓNICA RADIO (DESDE 2020)",
+    "influences": "HERNAN CATTANEO, GUY J, SIMON VUARAMBON",
+    "extendedBio": [
+      "Ale Almada nació en Salta, Argentina y desde muy joven desarrolló una fuerte conexión con la música. Su primer acercamiento a los sonidos electrónicos llegó durante los años 80, influenciado por el synth-pop, el disco italo y las melodías cargadas de sintetizadores que marcaron esa década.",
+      "Durante los años 90 profundizó su vínculo con la música de baile y el House, dando sus primeros pasos como DJ en fiestas de 15, eventos estudiantiles y reuniones sociales.",
+      "Con el paso del tiempo, la evolución de la música electrónica lo llevó a explorar nuevas corrientes: la energía de los principales eventos internacionales, la cultura del club y artistas como Hernán Cattaneo, Guy J, Rick Ryan, Simon Vuarambon, Diego Berrondo y Alex Efe fueron dando forma a una visión cada vez más profunda y melódica de la música electrónica.",
+      "Actualmente continúa su formación como productor musical, buscando desarrollar su propia identidad sonora. Además de su actividad como DJ es el fundador y director de Sónica Radio, un proyecto creado en 2020 con el propósito de difundir la cultura electrónica, apoyar a los artistas y compartir la música que lo apasiona desde hace décadas."
+    ]
+  },
+  "photos": [
+    {
+      "description": "Detrás de escena en la cabina principal de Sónica Radio durante la grabación de Guest Sessions.",
+      "order": 1,
+      "isPrincipal": true,
+      "date": "2026",
+      "title": "EN CABINA & ESTUDIO",
+      "src": "/fotos/hero.jpg",
+      "id": "slide-1",
+      "location": "Sónica Radio, Salta"
+    },
+    {
+      "order": 2,
+      "location": "Sónica Radio, Salta",
+      "date": "2026",
+      "isPrincipal": false,
+      "src": "/fotos/djing.jpg",
+      "description": "Captura en directo de la manipulación de frecuencias y ecualizaciones en vivo.",
+      "title": "LIVE SET IN ACTION",
+      "id": "slide-2"
+    },
+    {
+      "description": "Atardecer melódico en locación al aire libre con sonidos Organic y Deep House.",
+      "src": "/fotos/sunset1.jpeg",
+      "order": 3,
+      "date": "2025",
+      "id": "slide-3",
+      "isPrincipal": false,
+      "title": "OPEN AIR SUNSET SESSION",
+      "location": "Secret Location, Salta"
+    },
+    {
+      "src": "/fotos/trewa4.jpg",
+      "location": "Trewa Bar, Salta",
+      "description": "Presentación en vivo ante el público local en Trewa Bar.",
+      "title": "TREWA BAR LIVE SHOW",
+      "date": "2026",
+      "id": "slide-4",
+      "order": 4,
+      "isPrincipal": false
+    }
+  ],
+  "sets": [
+    {
+      "order": 1,
+      "isPrincipal": true,
+      "url": "https://soundcloud.com/alealmada-music/organic_deep_house_radio_guest_session",
+      "category": "PROGRESSIVE HOUSE",
+      "title": "Guest Session<br>ODH RADIO",
+      "coverImg": "/fotosportadas/guestsessionportada.jpeg",
+      "id": "SET 001"
+    },
+    {
+      "category": "PROGRESSIVE HOUSE",
+      "coverImg": "/fotosportadas/trewabarsession.jpeg",
+      "title": "Live Set<br>Trewa Bar",
+      "url": "https://soundcloud.com/alealmada-music/ale-almada-live-set-trewa-bar",
+      "order": 2,
+      "isPrincipal": false,
+      "id": "SET 002"
+    },
+    {
+      "category": "DEEP HOUSE",
+      "title": "Guest MIX<br>Sonido Selecto",
+      "url": "https://soundcloud.com/alealmada-music/01-sonido-selecto-guest-mix",
+      "coverImg": "/fotosportadas/guestmixportada.jpeg",
+      "id": "SET 003",
+      "isPrincipal": false,
+      "order": 3
+    },
+    {
+      "url": "https://soundcloud.com/alealmada-music/fragments_sequence?in=alealmada-music/sets/recreation",
+      "id": "SET 004",
+      "isPrincipal": false,
+      "title": "Fragments<br>Sequence",
+      "category": "ORGANIC HOUSE",
+      "order": 4,
+      "coverImg": "/fotosportadas/fragmentssequence.jpeg"
+    }
+  ],
+  "events": [
+    {
+      "title": "After Office",
+      "city": "Salta , argentina",
+      "id": "evt-1786733731613",
+      "type": "past",
+      "date": "2026-07-29",
+      "year": "2026",
+      "venue": "hotel alejandro I",
+      "formattedDate": "MIÉ, 29 JUL 2026",
+      "description": "",
+      "isStarred": false,
+      "subtitle": "",
+      "linkUrl": "",
+      "coverImg": "/uploads/hotelalejandro1_1786733727110_bp03j.jpg"
+    },
+    {
+      "venue": "TREWA BAR",
+      "description": "Live Performance grabada en vivo en Trewa Bar. Curaduría de Progressive y Organic House.",
+      "year": "2026",
+      "date": "2026-06-13",
+      "formattedDate": "SÁB, 13 JUN 2026",
+      "coverImg": "/fotos/trewa4.jpg",
+      "isStarred": false,
+      "type": "past",
+      "id": "evt-1",
+      "linkUrl": "https://soundcloud.com/alealmada-music/ale-almada-live-set-trewa-bar",
+      "city": "TREWA BAR, 1127",
+      "title": "LIVE SET TREWA BAR 3"
+    },
+    {
+      "city": "SECRET LOCATION, LEEDS",
+      "title": "SUNSET",
+      "description": "Open Air Sunset Session en Secret Location con sonido melódico e influencias de los 80s y 90s.",
+      "linkUrl": "https://soundcloud.com/alealmada-music",
+      "type": "past",
+      "isStarred": false,
+      "date": "2025-11-21",
+      "coverImg": "/fotos/sunset1.jpeg",
+      "id": "evt-2",
+      "venue": "Secret Location",
+      "formattedDate": "VIE, 21 NOV 2025",
+      "year": "2025"
+    },
+    {
+      "subtitle": "",
+      "formattedDate": "MAR, 7 ABR 2026",
+      "linkUrl": "",
+      "coverImg": "/fotosportadas/guestsessionportada.jpeg",
+      "description": "",
+      "venue": "Organic deep house radio",
+      "date": "2026-04-07",
+      "year": "2026",
+      "isStarred": false,
+      "id": "evt-3",
+      "city": "SALTA, ARGENTINA",
+      "title": "DJ GUEST",
+      "type": "past"
+    },
+    {
+      "title": "TREWA BAR",
+      "subtitle": "",
+      "description": "Show exclusivo en Trewa Bar. Link directo para reserva de mesas.",
+      "venue": "TREWA BAR",
+      "coverImg": "/uploads/Trewa_1786737506441_bga8o.jpg",
+      "city": "SALTA, ARGENTINA",
+      "type": "upcoming",
+      "formattedDate": "SÁB, 22 AGO 2026",
+      "isStarred": true,
+      "linkUrl": "https://l.instagram.com/?u=https%3A%2F%2Ftrewa.meitre.com%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAada20UMLCXJGIK4K4QHbpdrX1vS7gBekeQSSmOdhBlLTOscR6r6ACi11Ir4zA_aem_oN5tP0MmF0_XbZPgzcHVLw&e=AUD0rLhKWR71dHzHDHExFEqFtiuUYR8bbvVsBbyS1I_qM1IDlPKh6k0Eil3ZHhg9pBI7RgaCqWkPAmnAAWx0za1I3MjG_Q4_KSTlt6yeIkQaloMpVpBXBhLARetPEEkBfxGAttjUTMa5Y71JXvxCBVg",
+      "date": "2026-08-22",
+      "id": "evt-trewa-aug-22",
+      "year": "2026"
+    }
+  ]
+}

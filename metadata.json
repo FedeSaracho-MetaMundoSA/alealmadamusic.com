@@ -1,0 +1,6 @@
+{
+  "name": "Ale Almada — DJ & Productor",
+  "description": "Sitio oficial de Ale Almada, DJ y productor argentino. Director de Sónica Radio. Sets de Progressive House, Organic y Deep House.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
